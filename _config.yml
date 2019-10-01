@@ -1,4 +1,3 @@
-baseurl: '/fewd29'
 permalink: /:categories/:title/
 relative_permalinks: false
 markdown: redcarpet
